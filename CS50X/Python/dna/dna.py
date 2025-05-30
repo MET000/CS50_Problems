@@ -4,12 +4,12 @@ import sys
 
 def main():
 
-    # TODO: Check for command-line usage
+    # Check for command-line usage
     if len(sys.argv) != 3:
         print("Please provide a database and a DNA sequence")
         sys.exit(1)
 
-    # TODO: Read database file into a variable
+    # Read database file into a variable
     database_data = []
     strs = []
     with open(sys.argv[1]) as file:
@@ -23,20 +23,20 @@ def main():
         for row in reader:
             database_data.append(row)
 
-    # TODO: Read DNA sequence file into a variable
+    # Read DNA sequence file into a variable
     sequence = ""
     with open(sys.argv[2]) as seq_file:
         reader_seq = csv.reader(seq_file)
         for row in reader_seq:
             sequence = row[0]
 
-    # TODO: Find longest match of each STR in DNA sequence
+    # Find longest match of each STR in DNA sequence
     longest_strs = {}
 
     for str in strs:
         longest_strs[str] = longest_match(sequence, str)
 
-    # TODO: Check database for matching profiles
+    # Check database for matching profiles
     number_strs = len(strs)
     for person in database_data:
         counter = 0
