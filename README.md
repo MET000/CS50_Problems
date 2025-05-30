@@ -14,7 +14,7 @@ This repository is organized to help students and learners who are working throu
 
 ## Purpose
 
-The goal of this repository is to provide a resource for learning and revisiting the problems and their solutions in both CS50x and CS50p. Whether you are currently enrolled in the courses or self-studying, you can find the solutions here to reference and better understand key programming concepts.
+The goal of this repository is to provide a resource for learning and revisiting the problems and their solutions in CS50x, CS50R, and CS50p. Whether you are currently enrolled in the courses or self-studying, you can find the solutions here to reference and better understand key programming concepts.
 
 ## License
 
