@@ -1,0 +1,17 @@
+Package: GeneInsights
+Title: Gene Insights
+Description: Provide a quick analysis of variant data for a specific gene using Ensembl BiomaRt.
+Version: 1.0
+Authors@R: person("Hamza", "Mezgrouia", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Requires: 
+    BiocManager
+    biomaRt
+    tidyverse
+    treemapify
+    viridis
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
+Video URL: https://www.youtube.com/watch?v=Arqix7tEaMk
