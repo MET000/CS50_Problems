@@ -1,4 +1,4 @@
-# CS50x and CS50p Problems Repository
+# CS50 Problems Repository
 
 Welcome to the repository where I have uploaded all the problem sets from the CS50x (Introduction to Computer Science) and CS50p (Introduction to Programming with Python) courses.
 
