@@ -1,6 +1,6 @@
 # CS50 Problems Repository
 
-Welcome to the repository where I have uploaded all the problem sets from the CS50x (Introduction to Computer Science), CS50p (Introduction to Programming with Python) courses, and CS50R (Introduction to Programming with R).
+Welcome to the repository where I have uploaded all the problem sets from the CS50X (Introduction to Computer Science), CS50P (Introduction to Programming with Python) courses, and CS50R (Introduction to Programming with R).
 
 This repository is organized to help students and learners who are working through the CS50x and CS50p courses on [edX](https://www.edx.org/course/cs50s-introduction-to-computer-science) or [Harvard Online](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 
