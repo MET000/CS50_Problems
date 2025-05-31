@@ -29,4 +29,4 @@ Happy coding and learning!
 
 ---
 
-*This repository is not officially associated with the CS50 course. All materials and problem sets are from the CS50x and CS50p courses provided by Harvard University.*
+*This repository is not officially associated with the CS50 course. All materials and problem sets are from the CS50x, CS50p, and CS50R courses provided by Harvard University.*
